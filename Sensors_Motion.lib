@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3 Date: 10/28/2009 12:06:08 AM
+#
+# MVS_0608_02
+#
+DEF MVS_0608_02 U 0 60 Y N 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "MVS" 0 0 60 H V C CNN
+F2 "MVS_0608_02" 0 0 60 H I C CNN
+F3 "TODO_DATASHEET" 0 0 60 H I C CNN
+F4 "VIBRATION_SENSOR" 0 0 60 H V C CNN "Label"
+F5 "Vibration sensor MVS 0608.02" 0 0 60 H I C CNN "Keywords"
+F6 "Sensolute - MVS 0608.02" 0 0 60 H I C CNN "Manufacturer Code"
+F7 "Farnell - 1768152" 0 0 60 H I C CNN "Supplier Code"
+DRAW
+C 0 0 50 0 1 0 N
+S -200 100 200 -100 0 1 0 N
+X ~ 1 -300 0 100 R 60 60 0 1 P
+X ~ 2 300 0 100 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
